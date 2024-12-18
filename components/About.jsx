@@ -28,24 +28,24 @@ function About() {
         className="mt-4 dark:text-ctnSecondaryDark text-gray-300 text-[17px] w-full leading-[30px] flex flex-col justify-between gap-6"
       >
         <div>
-        "Hello! I'm Satyam Shorrf, an engineering professional with a strong academic background in both Mechanical and Software Engineering. I'm currently pursuing a Bachelor of Software Engineering from T.P. College, Madhepura, with a score of 85.75% and a CGPA of 8.03. I also hold a Diploma in Mechanical Engineering from Exalt College of Polytechnic, Vaishali.
+          Hello! I'm <strong>Shivam Anand</strong>, a passionate **Frontend Developer** with hands-on experience in building dynamic and user-friendly web applications. I specialize in technologies like **React.js**, **React Native**, **Next.js**, and **Node.js**, with a strong focus on creating seamless user experiences.
 
-As a software developer, I have experience in TypeScript, TailwindCSS, and JavaScript. I specialize in frameworks such as React, Node.js, Next.js, React-Three-Fiber, and Three.js. My knowledge extends to fundamental data structures and algorithms, making me well-versed in frontend web development.
+          I have a solid foundation in **data structures and algorithms** and am proficient in **TypeScript**, **JavaScript**, and **TailwindCSS**. My professional journey includes working on various projects, where I honed my skills in **frontend development**, **API integration**, and **responsive design**.
 
-I'm actively learning and enhancing my knowledge and skills in cutting-edge technologies, including Machine Learning, Deep Learning, Artificial Intelligence, Blockchain, and OpenCV."
-          
+          I am also continuously expanding my expertise in cutting-edge technologies like **Machine Learning**, **Artificial Intelligence**, and **Blockchain**, aiming to stay at the forefront of innovation.
+
           <br className="sm:block hidden" />
           Let&apos;s collaborate to bring your ideas to life!
         </div>
         <div className="w-fit break-words">
           <Link
-            href=""
+            href="mailto:shivamanand8969@gmail.com"
             target="_blank"
             rel="noreferrer"
             className="hover:text-primary w-full transition-all duration-100 ease-in flex md:items-center gap-2 md:flex-row flex-wrap word-break hover:-translate-y-2"
           >
             <EmailIcon className="w-[30px] h-[30px]" />
-            
+            <span>shivamanand8969@gmail.com</span>
           </Link>
         </div>
         <div className="flex gap-5 items-center">
@@ -61,7 +61,7 @@ I'm actively learning and enhancing my knowledge and skills in cutting-edge tech
           ))}
         </div>
         <Link
-          href="document/Satyam-Kumar-Resume.pdf"
+          href="document/Shivam-Anand-Resume.pdf"
           target="_blank"
           rel="noreferrer"
           className="w-fit"

@@ -23,12 +23,12 @@ export default function App({ Component, pageProps }) {
 		}
 	}, [loading]);
 
-	const title = "Portfolio | Satyam Shorrf";
+	const title = "Portfolio | Shivam Anand";
 	const description =
-		"Hello! I'm Satyam Shorrf, a passionate web developer and problem solver. Welcome to my portfolio";
+		"Hello! I'm Shivam Anand, a passionate Fullstack developer and problem solver. Welcome to my portfolio";
 	const avatar =
-		"public/assets/avatar-meta.png";
-	const url = "https://3-d-portfolio-hbuqr3wbo-satyam-shorrfs-projects.vercel.app/";
+		"public/assets/profileimage.jpeg";
+	const url = "";
 
 	return (
 		<>
@@ -58,19 +58,19 @@ export default function App({ Component, pageProps }) {
 				<link
 					rel="apple-touch-icon"
 					sizes="180x180"
-					href="/assets/icons/favicon/apple-touch-icon.png"
+					href="/assets/profileimage.jpeg"
 				/>
 				<link
 					rel="icon"
 					type="image/png"
 					sizes="32x32"
-					href="/assets/icons/favicon/favicon-32x32.png"
+					href="/assets/profileimage.jpeg"
 				/>
 				<link
 					rel="icon"
 					type="image/png"
 					sizes="16x16"
-					href="/assets/icons/favicon/favicon-16x16.png"
+					href="/assets/profileimage.jpeg"
 				/>
 				<link
 					rel="manifest"

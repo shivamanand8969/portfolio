@@ -646,12 +646,8 @@ const heroTexts = [
   500,
   "Backend developer",
   500,
-  "Mechanical Engineer",
-  500,
-  "Automobile Engineer",
-  500,
-  "Quality Engineer",
-  500,
+  "React/React Native Developer",
+  500
 ];
 
 export {
